@@ -7,38 +7,38 @@ U ovom repozitorijumu čuvaju se domaći zadaci polaznika sa prolećne radionice
 | --------------------------------------------------------------------- | -------- | ------ |
 | [Čitanje tablice](./motion-blur/)                                     | [Vasilije Hadži-Purić](https://github.com/hadzihp) | Pavle Pađin |
 | [Uparivanje obeležja](./feature-pairing/)                             | [Sara Milosavljević](https://github.com/pluto13x) | Srđan Radović |
-| [Izoštravanje](./deblur/)                                             | Anastasija Milanović | Jelena Marinković |
+| [Izoštravanje](./deblur/)                                             | [Anastasija Milanović](https://github.com/anastasijaaaa) | Jelena Marinković |
 | [Detekcija lica](./face-detection/)                                   | [Anđela Ristić](https://github.com/andjelaristicc) | Marija Nedeljković |
-| [Hafova transformacija](./hough-transform/)                           | Andrej Filko | Jelena Marinković |
+| [Hafova transformacija](./hough-transform/)                           | [Andrej Filko](https://github.com/FilkoniSSTS) | Jelena Marinković |
 | [Površine geografskih objekata](./object-surface-area/)               | [Iva Janeva](https://github.com/Janeva20) | Diana Sekulić |
-| [Brojanje kockica](./dice-counting/)                                  | Anastasija Lena Dakić | Andrej Lojdl |
+| [Brojanje kockica](./dice-counting/)                                  | [Anastasija Lena Dakić](https://github.com/AnastasijaLena) | Andrej Lojdl |
 | [Kodiranje slike](./image-encoding/)                                  | [Dijana Perović](https://github.com/dijanaperovic) | Andrej Bantulić |
 | [Izdvajanje teksta](./text-extraction/)                               | [Ljubica Milijanović](https://github.com/ljubicam12) | Nikola Ristanović |
 | [Satovi](./clocks/)                                                   | Dušan Stojković | Luka Simić |
 | [Šahovska tabla](./chessboard/)                                       | [Marko Mihajlović](https://github.com/ubicadinosaurusa) | Pavle Pađin |
 | [Optimalni de-blur](./optimal-deblur/)                                | [Darija Vasiljević](https://github.com/darijaaaa) | Anđela Bogdanović |
-| [Poboljšanje kvaliteta](./quality-increase/)                          | Srđan Mastikosa | Anđela Bogdanović
+| [Poboljšanje kvaliteta](./quality-increase/)                          | [Srđan Mastikosa](https://github.com/Srkisa) | Anđela Bogdanović
 | [Adaptivni medijan](./adaptive-median/)                               | [Marko Paramentić](https://github.com/paramenticmarko) | Nikola Ristanović |
 | [Linije na putu](./lane-markings/)                                    | [Nataša Kovačević](https://github.com/NatasaKovacevicCoconut) | Andrej Bantulić |
-| [Kenijev filtar](./canny/)                                            | Miša Dobrota | Anđela Bogdanović |
+| [Kenijev filtar](./canny/)                                            | ~~Miša Dobrota~~ | Anđela Bogdanović |
 | [Prepoznavanje novčanica](./bill-detection/)                          | [Iva Stojanović](https://github.com/takesica) | Marija Nedeljković |
 | [Bar kod detektor](./barcode-detector/)                               | [Lenka Jakovljević](https://github.com/lenkajj) | Luka Simić |
 | [Tablić solver](./tablanette-solver/)                                 | [Aleksa Vuković](https://github.com/a1eks4) | Andrej Bantulić |
 | [Panorama](./panorama/)                                               | [Rada Novakov](https://github.com/novakov06) | Srđan Radović |
-| [Slika u goblen](./image-to-tapestry/)                                | Hafiza Kahrimanović | Andrej Lojdl |
+| [Slika u goblen](./image-to-tapestry/)                                | [Hafiza Kahrimanović](https://github.com/Hafiiiza) | Andrej Lojdl |
 | [Promena omota knjige](./change-book-cover/)                          | [Anja Vujanac](https://github.com/Sugaravel) | Srđan Radović |
 | [Feature deskriptor](./feature-descriptor/)                           | [Ivan Milodanović](https://github.com/marstheking) | Srđan Radović |
 | [Polutoniranje](./halftoning/)                                        | Jovana Grujičić | Nikola Drakulić |
 | [Promena palete scene](./change-palette/)                             | Marko Milivojević | Jelena Marinković |
 | [Detekcija električnih kola](./electric-circuit-detection/)           | [Mihailo Pešić](https://github.com/MihailoPesic) | Nikola Drakulić |
 | [Haljina](./green-dress/)                                             | [Nikola Najić](https://github.com/najkela) | Pavle Pađin |
-| [Određivanje nepoznate transformacije](./find-the-transformation/)    | Vuk Savić | Milomir Stefanović |
+| [Određivanje nepoznate transformacije](./find-the-transformation/)    | ~~Vuk Savić~~ | Milomir Stefanović |
 | [Ekvivalizacija histograma](./histogram-equalization/)                | [Stevanija Ciganović](https://github.com/Stevanija) | Andrej Lojdl |
 | [Interpolacija zumiranja](./zoom-interpolation/)                      | [Stefan Stojković](https://github.com/stefanstojkoviic) | Nikola Ristanović |
 | [Gde je slika na PDF-u?](./find-image-from-pdf/)                      | [Denis Softić](https://github.com/DenDev82) | Milomir Stefanović |
 | [Slika u PDF](./image-to-pdf/)                                        | [Nemanja Obradović](https://github.com/budjavko) | Milomir Stefanović |
 | [Ispravljanje slike](./image-undistortion/)                           | Natalija Janković | Milomir Stefanović |
-| [Povećanje rezolucije](./image-upscaling/)                            | Miloš Krneta | Nikola Ristanović |
+| [Povećanje rezolucije](./image-upscaling/)                            | [Miloš Krneta](https://github.com/Banana8728) | Nikola Ristanović |
 | [Iks-oks](./tic-tac-toe/)                                             | [Lena Stanković](https://github.com/lenastankovic2007) | Diana Sekulić |
 | [Detekcija objekta](./object-detection/)                              | Filip Repman | Milomir Stefanović |
 | [Prepoznavanje novčića](./coin-detection/)                            | Kosta Petković | Marija Nedeljković |
